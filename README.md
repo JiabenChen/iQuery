@@ -1,5 +1,6 @@
 # iQuery: Instruments as Queries for Audio-Visual Sound Separation
 Official implementation of [Instruments as Queries for Audio-Visual Sound Separation](https://arxiv.org/abs/2212.03814).
+
 This paper has been accepted by **CVPR 2023**.
 
 ## Introduction
