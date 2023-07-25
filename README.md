@@ -124,6 +124,8 @@ cd code
 bash scripts/evaluate.sh
 ```     
 
+Pretrained checkpoints of iQuery can be found at: https://drive.google.com/file/d/17jzOwsTDBaHVw18eaErNZtvGYaB7TN20/view?usp=sharing
+
 ## Citation
 ```bash
 @inproceedings{chen2023iquery,
